@@ -4,7 +4,7 @@ import type { IMemory } from "../../interface/Memory";
 export const fetchMemories = createAsyncThunk<IMemory[]>(
   "memories/fetchAll",
   async () => {
-    const res = await fetch("http://localhost:4000/memories");
+    const res = await fetch("http://localhost:3000/memories");
     if (!res.ok) throw new Error("Failed to fetch memories");
     return (await res.json()) as IMemory[];
   }

@@ -4,7 +4,7 @@ import type { IGratitudeNote } from "../../interface/GratitudeNote";
 export const fetchTreeNotes = createAsyncThunk<IGratitudeNote[]>(
   "gratitude/fetchTreeNotes",
   async () => {
-    const res = await fetch("http://localhost:4000/gratitudeTree");
+    const res = await fetch("http://localhost:3000/gratitudeTree");
     if (!res.ok) throw new Error("Failed to fetch gratitude tree notes");
     return (await res.json()) as IGratitudeNote[];
   }

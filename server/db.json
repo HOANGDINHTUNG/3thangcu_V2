@@ -157,21 +157,33 @@
   "memories": [
     {
       "id": "m1",
-      "url": "/images/memory1.jpg",
-      "title": "Lớp học làng ngày xưa",
-      "description": "Những chiếc bàn gỗ cũ, bảng đen và bụi phấn trắng."
+      "url": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?auto=format&fit=crop&w=1200&q=80",
+      "title": "Lớp học xưa",
+      "description": "Ánh sáng chiếu qua ô cửa gỗ, bụi phấn lơ lửng trong không khí."
     },
     {
       "id": "m2",
-      "url": "/images/memory2.jpg",
-      "title": "Giờ tin học đầu tiên",
-      "description": "Khi cả lớp lần đầu chạm tay vào bàn phím."
+      "url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "title": "Giờ học đầu tiên",
+      "description": "Những ánh mắt tròn xoe nhìn lên bảng, nơi tri thức bắt đầu."
     },
     {
       "id": "m3",
-      "url": "/images/memory3.jpg",
-      "title": "Lớp học online mùa dịch",
-      "description": "Những khuôn mặt nhỏ xíu trên màn hình, nhưng trái tim thì vẫn gần nhau."
+      "url": "https://images.unsplash.com/photo-1519455953755-af066f52f1ea?auto=format&fit=crop&w=1200&q=80",
+      "title": "Mái trường thân yêu",
+      "description": "Dãy hành lang yên bình nơi lưu giữ bao kỷ niệm học trò."
+    },
+    {
+      "id": "m4",
+      "url": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+      "title": "Lớp học thời đại số",
+      "description": "Máy tính, tai nghe và những nụ cười rạng rỡ sau màn hình."
+    },
+    {
+      "id": "m5",
+      "url": "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=1200&q=80",
+      "title": "Khoảnh khắc thầy và trò",
+      "description": "Một lời dặn dò, một trang sách — những điều ở lại mãi."
     }
   ],
   "gratitudeTree": [
