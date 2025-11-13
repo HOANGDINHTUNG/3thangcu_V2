@@ -1,0 +1,61 @@
+
+@import "tailwindcss";
+
+/* Cho phép dùng dark:... dựa vào class .dark trên html */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Hiệu ứng nổi nhẹ */
+@keyframes float-soft {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.float-soft {
+  animation: float-soft 6s ease-in-out infinite;
+}
+
+/* Viền sáng chậm chậm */
+@keyframes glow-border {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.0); }
+  50% { box-shadow: 0 0 25px 0 rgba(56, 189, 248, 0.45); }
+}
+
+.glow-card {
+  animation: glow-border 7s ease-in-out infinite;
+}
+
+/* hiệu ứng cây lắc nhẹ */
+@keyframes tree-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+.tree-float {
+  animation: tree-float 6s ease-in-out infinite;
+}
+
+/* hiệu ứng lá thư rơi xuống */
+@keyframes letter-drop {
+  0% {
+    transform: translate(-50%, -40px) scale(0.5);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(-50%, 40px) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-letter-drop {
+  animation: letter-drop 1s ease forwards;
+}
+
+/* icon trong Hero float nhẹ */
+@keyframes float-soft {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.float-soft {
+  animation: float-soft 5s ease-in-out infinite;
+}

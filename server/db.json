@@ -1,0 +1,211 @@
+{
+  "teachers": [
+    {
+      "id": "t1",
+      "name": "Cô Lan",
+      "title": "Cô giáo tiểu học vùng cao",
+      "quote": "Mỗi con chữ là một hạt giống hi vọng.",
+      "avatarUrl": "",
+      "era": "past",
+      "story": "Những năm đầu sau hòa bình lập lại, con đường đến điểm trường của cô Lan là những con dốc đất đỏ trơn trượt. Mỗi sáng trời mù sương, cô vẫn đạp xe mấy chục cây số, ôm trước ngực là xấp vở còn thơm mùi giấy mới. Lớp học là căn nhà gỗ lợp mái lá, bảng chỉ là tấm gỗ sơn đen, bụi phấn phủ trắng tà áo dài. Nhưng với cô, đó là nơi đẹp nhất thế gian, vì ở đó có ánh mắt trong veo của lũ trẻ lần đầu viết được tên mình.\n\nNhiều năm sau, khi đã nghỉ hưu, cô vẫn giữ lại chiếc cặp sờn màu và hộp phấn nhỏ. “Đó là cả thanh xuân của cô”, cô cười hiền, mắt long lanh mà nói."
+    },
+    {
+      "id": "t2",
+      "name": "Thầy Minh",
+      "title": "Thầy giáo Toán thời kỳ đổi mới",
+      "quote": "Điều quan trọng không phải là kết quả, mà là cách em đi tới đáp án.",
+      "avatarUrl": "",
+      "era": "modern",
+      "story": "Thầy Minh bắt đầu dạy học khi bảng đen, phấn trắng dần được thay bằng bảng từ và bút dạ. Thầy luôn bảo toán học không phải là những con số khô khan mà là ngôn ngữ để hiểu thế giới. Trong những năm tháng đất nước chuyển mình, nhiều học trò của thầy vừa đi học, vừa phụ giúp gia đình. Thầy hiểu điều đó, nên mỗi bài giảng, thầy luôn tìm cách gắn toán với đời sống: tính tiền phân bón, đo diện tích ruộng, lập kế hoạch chi tiêu cho cả nhà.\n\nCó lần một học trò đến muộn vì phải phụ mẹ bán hàng ngoài chợ. Thầy không trách, chỉ lặng lẽ ở lại sau giờ học, giảng lại từng bước giải, từng công thức. “Em cứ đi chậm, nhưng đừng dừng lại”, thầy nói. Nhiều năm sau, cậu học trò ấy trở thành kỹ sư, trở lại trường thăm thầy với đôi bàn tay còn vương mùi dầu máy – thứ mùi mà thầy bảo là ‘mùi của tương lai’."
+    },
+    {
+      "id": "t3",
+      "name": "Cô Hương",
+      "title": "Cô giáo Ngữ văn thời đại số",
+      "quote": "Màn hình có thể thay cuốn vở, nhưng không gì thay được sự lắng nghe.",
+      "avatarUrl": "",
+      "era": "digital",
+      "story": "Dịch bệnh ập đến, lớp học bỗng chốc chuyển hết lên màn hình. Cô Hương – người vẫn quen cầm phấn và viết từng nét lên bảng – loay hoay học dùng phần mềm dạy trực tuyến. Đêm, khi con đã ngủ, cô ngồi trước màn hình máy tính, thử đi thử lại từng thao tác chia sẻ màn hình, tạo phòng học, gửi bài tập.\n\nBuổi học online đầu tiên, đường truyền chập chờn, gương mặt học trò lúc tắt lúc hiện. Có em chỉ nghe được tiếng mà không bật được camera vì đang dùng điện thoại cũ của mẹ. Cô kiên nhẫn nhắc: “Không sao, chỉ cần em đang ở đó, nghe cô là được”. Dần dần, cô biến những giờ học văn qua màn hình thành nơi các em được chia sẻ cảm xúc, nỗi sợ, và cả những ước mơ sau đại dịch.\n\nKết thúc năm học ấy, trong một lá thư gửi cô, một học sinh viết: “Nhờ những tiết văn online của cô, con không còn thấy mình cô đơn trong căn phòng nhỏ nữa”."
+    },
+    {
+      "id": "t4",
+      "name": "Thầy Phong",
+      "title": "Thầy tin học và lớp học STEM",
+      "quote": "Ở thời đại số, mỗi học sinh là một nhà sáng tạo nhỏ.",
+      "avatarUrl": "",
+      "era": "digital",
+      "story": "Thầy Phong là một trong những người đầu tiên mang robot, lập trình và các dự án STEM vào trường phổ thông ở địa phương. Phòng máy cũ với dãy máy tính đã lỗi thời, quạt kêu lạch cạch, nhưng trong mắt thầy và trò, đó là phòng thí nghiệm của tương lai.\n\nThầy dạy các em viết những dòng lệnh đầu tiên, không phải để trở thành lập trình viên ngay, mà để các em tập suy nghĩ có trình tự, biết thử nghiệm và không sợ sai. Khi trường tổ chức ngày hội STEAM, nhóm học sinh của thầy mang tới một mô hình ‘Ngôi trường xanh thông minh’, tự động tưới nước và tắt đèn bằng cảm biến. Khi mô hình hoạt động, cả gian phòng vang lên tiếng vỗ tay. Thầy chỉ đứng một góc, mỉm cười nhìn học trò tự tin thuyết trình về sản phẩm của mình.\n\n“Ngày xưa thầy mơ có sách để đọc. Giờ thầy mơ các em có cơ hội tạo ra cuốn sách của riêng mình”, thầy nói, mắt ánh lên niềm tin."
+    },
+    {
+      "id": "t5",
+      "name": "Cô Thảo",
+      "title": "Cô giáo chủ nhiệm lớp cuối cấp",
+      "quote": "Tuổi trẻ ai cũng có những nốt trầm, nhưng đừng quên giai điệu chính là ước mơ của mình.",
+      "avatarUrl": "",
+      "era": "modern",
+      "story": "Lớp 12A năm đó nổi tiếng là ‘cá tính’. Điểm mạnh là sáng tạo, điểm yếu là… hơi quá tay. Từ những trò đùa giờ ra chơi đến những lần bất đồng với giáo viên bộ môn, lớp thường xuyên được ‘nhắc tên’ trong cuộc họp hội đồng. Cô Thảo nhận lớp với không ít ánh nhìn ái ngại.\n\nThay vì bắt đầu bằng nội quy, cô chọn bắt đầu bằng một buổi trò chuyện thẳng thắn. Cô kể về những lần mình cũng từng nổi loạn, từng cãi lời thầy cô, từng thấy cả thế giới không hiểu mình. Cô không bảo các em phải ngoan ngay lập tức, chỉ đề nghị: “Nếu đã coi cô là cô chủ nhiệm, hãy cho cô cơ hội được đồng hành cùng tụi em thêm một lần nữa”.\n\nCả năm học trôi qua với không ít lần va chạm, cả nước mắt lẫn tiếng cười. Ngày bế giảng, trong góc lớp, những học sinh từng ‘cứng đầu’ nhất ôm cô khóc nức nở. “Cô ơi, tụi con cảm ơn vì đã không bỏ cuộc với tụi con”, một em nói, giọng nghẹn lại."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "tl1",
+      "year": 1945,
+      "title": "Ngày độc lập – khai sinh nền giáo dục mới",
+      "description": "Sau Cách mạng Tháng Tám, phong trào Bình dân học vụ lan rộng, hàng triệu người dân lần đầu tiên biết đọc, biết viết.",
+      "period": "pre1975"
+    },
+    {
+      "id": "tl2",
+      "year": 1955,
+      "title": "Những lớp học trong khói bom",
+      "description": "Giữa bom đạn chiến tranh, nhiều lớp học được dựng lên ngay trong hầm trú ẩn, thầy cô vẫn kiên trì giảng bài bên ánh đèn dầu.",
+      "period": "pre1975"
+    },
+    {
+      "id": "tl3",
+      "year": 1975,
+      "title": "Ngày thống nhất – hành trình viết tiếp",
+      "description": "Đất nước thu về một mối, giáo dục bước vào giai đoạn hàn gắn, xây dựng lại trường lớp, mở rộng cơ hội học tập cho trẻ em khắp mọi miền.",
+      "period": "1975_1986"
+    },
+    {
+      "id": "tl4",
+      "year": 1986,
+      "title": "Đổi mới – đổi thay trong từng trang sách",
+      "description": "Cùng với công cuộc Đổi mới, nội dung chương trình, sách giáo khoa và phương pháp giảng dạy dần được cập nhật, gần hơn với đời sống.",
+      "period": "doiMoi"
+    },
+    {
+      "id": "tl5",
+      "year": 2000,
+      "title": "Phổ cập giáo dục tiểu học",
+      "description": "Tỷ lệ trẻ em đến trường tăng mạnh, nhiều vùng sâu vùng xa có thêm trường lớp mới, đưa con chữ đến gần hơn với mọi gia đình.",
+      "period": "2000s"
+    },
+    {
+      "id": "tl6",
+      "year": 2010,
+      "title": "Bước chân vào kỷ nguyên internet",
+      "description": "Máy tính, internet, phòng tin học xuất hiện ngày càng nhiều trong trường học, mở ra cánh cửa tri thức rộng lớn cho học sinh.",
+      "period": "2000s"
+    },
+    {
+      "id": "tl7",
+      "year": 2020,
+      "title": "Lớp học không biên giới",
+      "description": "Trong đại dịch, thầy cô và học sinh trên khắp Việt Nam chuyển sang học trực tuyến, biến thách thức thành cơ hội để bước nhanh hơn vào thời đại số.",
+      "period": "digitalEra"
+    },
+    {
+      "id": "tl8",
+      "year": 2024,
+      "title": "Chuyển đổi số toàn diện trong giáo dục",
+      "description": "Nhiều nền tảng học trực tuyến, kho học liệu số, hệ thống quản lý học tập được triển khai, giúp hành trình dạy và học linh hoạt và cá nhân hoá hơn.",
+      "period": "digitalEra"
+    }
+  ],
+  "tributes": [
+    {
+      "id": "tr1",
+      "senderName": "Một cựu học sinh miền núi",
+      "message": "Con vẫn nhớ những buổi sáng mưa, đường trơn trượt, cô lấm lem bùn đất nhưng vẫn cười hiền bước vào lớp. Nhờ cô mà con – đứa trẻ từng sợ đến trường – giờ đã là cô giáo mầm non ở chính quê hương mình.",
+      "createdAt": "2025-10-01T08:30:00.000Z"
+    },
+    {
+      "id": "tr2",
+      "senderName": "Thế Anh",
+      "message": "Ngày đó, con ghét môn Toán đến mức chỉ muốn trốn tiết. Thầy không phạt con, chỉ lặng lẽ ngồi lại cùng con sau giờ học. “Nếu đã sợ, chúng ta học nó chậm hơn một chút”, thầy nói. Giờ đi làm, mỗi lần giải được một bài toán trong công việc, con lại nhớ đến nụ cười của thầy.",
+      "createdAt": "2025-10-02T09:15:00.000Z"
+    },
+    {
+      "id": "tr3",
+      "senderName": "Hà My",
+      "message": "Những tiết văn online của cô trong mùa dịch là nơi con được khóc, được cười, được kể về nỗi lo lắng của mình. Cảm ơn cô vì đã lắng nghe tụi con, không chỉ như một cô giáo, mà như một người bạn lớn.",
+      "createdAt": "2025-10-03T13:45:00.000Z"
+    },
+    {
+      "id": "tr4",
+      "senderName": "Một học trò hướng nội",
+      "message": "Con ít nói, ngại phát biểu, nên thường bị hiểu lầm là thờ ơ. Chỉ có cô là người hỏi con: “Ở trong lòng em đang nghĩ gì?”. Câu hỏi ấy đã làm con thấy mình có giá trị. Cảm ơn cô vì đã nhìn thấy con giữa cả lớp học ồn ào.",
+      "createdAt": "2025-10-05T19:20:00.000Z"
+    },
+    {
+      "id": "tr5",
+      "senderName": "Nhóm 12A khoá 2020",
+      "message": "Cô ơi, tụi con vẫn nhớ lần cả lớp bị ‘triệu tập’ sau vụ vẽ bậy lên bảng. Cô không mắng, chỉ bảo: “Nếu có thời gian để vẽ bậy, sao không thử dùng nó để vẽ tương lai của chính mình?”. Câu nói đó nghe vừa buồn cười, vừa thấm. Nhờ cô, tụi con mới chịu lớn thêm một chút.",
+      "createdAt": "2025-10-10T11:05:00.000Z"
+    },
+    {
+      "id": "tr6",
+      "senderName": "Một phụ huynh",
+      "message": "Con trai tôi vốn rất sợ đến trường sau một lần bị bạn trêu chọc. Nhờ cô chủ nhiệm mà cháu dần mở lòng trở lại. Cô không chỉ dạy kiến thức, mà còn dạy cả lớp cách tử tế với nhau. Từ đáy lòng mình, tôi xin gửi lời cảm ơn chân thành đến cô.",
+      "createdAt": "2025-10-12T07:50:00.000Z"
+    },
+    {
+      "id": "tr7",
+      "senderName": "Sinh viên năm nhất",
+      "message": "Ở giảng đường đại học, con càng thấm những điều thầy dạy ở mái trường cấp ba. Thầy bảo: “Điểm số là một phần, cách em đối diện với thất bại mới là phần còn lại”. Cảm ơn thầy vì đã dạy con cách đứng dậy khi vấp ngã.",
+      "createdAt": "2025-10-15T16:40:00.000Z"
+    },
+    {
+      "id": "tr8",
+      "senderName": "Một học sinh yêu Công nghệ",
+      "message": "Nhờ thầy Phong mà con biết đến lập trình và robot. Ngày mô hình nhỏ của nhóm con hoạt động được, thầy vui hơn cả tụi con. Sau này dù có trở thành lập trình viên hay không, con vẫn sẽ nhớ: ngọn lửa đầu tiên được thắp lên từ phòng tin học cũ kỹ của trường.",
+      "createdAt": "2025-10-20T10:10:00.000Z"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m1",
+      "url": "/images/memory1.jpg",
+      "title": "Lớp học làng ngày xưa",
+      "description": "Những chiếc bàn gỗ cũ, bảng đen và bụi phấn trắng."
+    },
+    {
+      "id": "m2",
+      "url": "/images/memory2.jpg",
+      "title": "Giờ tin học đầu tiên",
+      "description": "Khi cả lớp lần đầu chạm tay vào bàn phím."
+    },
+    {
+      "id": "m3",
+      "url": "/images/memory3.jpg",
+      "title": "Lớp học online mùa dịch",
+      "description": "Những khuôn mặt nhỏ xíu trên màn hình, nhưng trái tim thì vẫn gần nhau."
+    }
+  ],
+  "gratitudeTree": [
+    {
+      "id": "g1",
+      "icon": "❤️",
+      "title": "Tri ân thầy cô",
+      "message": "Cảm ơn thầy cô vì đã dành cả tuổi trẻ để đứng trên bục giảng.",
+      "x": "38%",
+      "y": "20%"
+    },
+    {
+      "id": "g2",
+      "icon": "💌",
+      "title": "Lời gửi cô Hương",
+      "message": "Cảm ơn cô vì những giờ Văn đã giúp em học cách lắng nghe chính mình.",
+      "x": "60%",
+      "y": "30%"
+    },
+    {
+      "id": "g3",
+      "icon": "✨",
+      "title": "Người thắp lửa",
+      "message": "Thầy đã cho em niềm tin rằng một đứa học trò nhút nhát cũng có thể tỏa sáng.",
+      "x": "30%",
+      "y": "48%"
+    },
+    {
+      "id": "g4",
+      "icon": "🎓",
+      "title": "Ngày tốt nghiệp",
+      "message": "Khoảnh khắc đội mũ cử nhân, em nhớ đến câu nói của thầy: 'Cứ đi rồi sẽ đến'.",
+      "x": "55%",
+      "y": "58%"
+    }
+  ]
+}
