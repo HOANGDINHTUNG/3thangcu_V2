@@ -215,9 +215,217 @@
       "id": "g4",
       "icon": "🎓",
       "title": "Ngày tốt nghiệp",
-      "message": "Khoảnh khắc đội mũ cử nhân, em nhớ đến câu nói của thầy: 'Cứ đi rồi sẽ đến'.",
+      "message": "Khoảnh khắc đội mũ cử nhân, em nhớ lời thầy: 'Cứ đi rồi sẽ đến'.",
       "x": "55%",
       "y": "58%"
+    },
+    {
+      "id": "g5",
+      "icon": "🌸",
+      "title": "Bông hoa tặng cô",
+      "message": "Cô là người khiến những bài giảng hóa thành mùa xuân dịu dàng.",
+      "x": "42%",
+      "y": "12%"
+    },
+    {
+      "id": "g6",
+      "icon": "📚",
+      "title": "Trang sách đầu đời",
+      "message": "Những trang sách cô đưa đã dạy em cách trở thành người tử tế.",
+      "x": "25%",
+      "y": "35%"
+    },
+    {
+      "id": "g7",
+      "icon": "🌟",
+      "title": "Vì thầy là ngôi sao",
+      "message": "Trong đêm tối của tuổi trẻ, thầy là vì sao soi đường cho tụi em.",
+      "x": "68%",
+      "y": "40%"
+    },
+    {
+      "id": "g8",
+      "icon": "💖",
+      "title": "Trái tim biết ơn",
+      "message": "Cô là người đầu tiên dạy em rằng yêu thương cũng cần học tập.",
+      "x": "47%",
+      "y": "50%"
+    },
+    {
+      "id": "g9",
+      "icon": "🕯️",
+      "title": "Ánh nến tri thức",
+      "message": "Thầy luôn kiên nhẫn như ngọn nến, cháy để soi sáng cho người khác.",
+      "x": "33%",
+      "y": "63%"
+    },
+    {
+      "id": "g10",
+      "icon": "🌿",
+      "title": "Mầm xanh hy vọng",
+      "message": "Cô là người gieo những mầm xanh đầu tiên trong hành trình của em.",
+      "x": "59%",
+      "y": "68%"
+    },
+    {
+      "id": "g11",
+      "icon": "💫",
+      "title": "Cảm ơn vì niềm tin",
+      "message": "Khi cả lớp mất phương hướng, thầy là người duy nhất tin tụi em.",
+      "x": "22%",
+      "y": "15%"
+    },
+    {
+      "id": "g12",
+      "icon": "📝",
+      "title": "Lời phê của thầy",
+      "message": "Một lời phê nhỏ của thầy đã khiến em quyết tâm học tốt hơn.",
+      "x": "72%",
+      "y": "18%"
+    },
+    {
+      "id": "g13",
+      "icon": "🎒",
+      "title": "Cặp sách năm nào",
+      "message": "Cô dạy rằng trong chiếc cặp nhỏ có cả một tương lai lớn.",
+      "x": "18%",
+      "y": "28%"
+    },
+    {
+      "id": "g14",
+      "icon": "🕊️",
+      "title": "Sự dịu dàng của cô",
+      "message": "Giọng nói nhẹ nhàng của cô luôn là nơi an yên của tuổi học trò.",
+      "x": "77%",
+      "y": "32%"
+    },
+    {
+      "id": "g15",
+      "icon": "⭐",
+      "title": "Điểm sáng đầu tiên",
+      "message": "Thầy là người đầu tiên nói rằng em có thể làm được nhiều hơn thế.",
+      "x": "41%",
+      "y": "72%"
+    },
+    {
+      "id": "g16",
+      "icon": "🌈",
+      "title": "Sắc màu tri thức",
+      "message": "Cô khiến những bài học khô khan trở thành cầu vồng rực rỡ.",
+      "x": "66%",
+      "y": "75%"
+    },
+    {
+      "id": "g17",
+      "icon": "🍀",
+      "title": "May mắn có thầy",
+      "message": "Gặp được thầy là điều may mắn nhất quãng đời học sinh của em.",
+      "x": "52%",
+      "y": "80%"
+    },
+    {
+      "id": "g18",
+      "icon": "💛",
+      "title": "Vàng óng yêu thương",
+      "message": "Tình thương của cô là điều em luôn muốn mang theo suốt đời.",
+      "x": "29%",
+      "y": "75%"
+    },
+    {
+      "id": "g19",
+      "icon": "📖",
+      "title": "Câu chuyện của cô",
+      "message": "Những câu chuyện cô kể khiến văn học trở thành tấm gương soi lòng.",
+      "x": "62%",
+      "y": "12%"
+    },
+    {
+      "id": "g20",
+      "icon": "🧡",
+      "title": "Tấm lòng thầy cô",
+      "message": "Thầy cô luôn là người đứng sau thành công của mỗi thế hệ học trò.",
+      "x": "45%",
+      "y": "33%"
+    },
+    {
+      "id": "g21",
+      "icon": "💙",
+      "title": "Niềm tin xanh",
+      "message": "Ngay cả khi em sai, thầy vẫn kiên nhẫn chỉ lại từ đầu.",
+      "x": "75%",
+      "y": "47%"
+    },
+    {
+      "id": "g22",
+      "icon": "🎀",
+      "title": "Món quà nhỏ",
+      "message": "Một bó hoa nhỏ cũng chứa cả bầu trời biết ơn dành cho cô.",
+      "x": "12%",
+      "y": "55%"
+    },
+    {
+      "id": "g23",
+      "icon": "🌻",
+      "title": "Hoa hướng dương",
+      "message": "Thầy dạy em nhìn về phía mặt trời và sống tích cực hơn.",
+      "x": "83%",
+      "y": "60%"
+    },
+    {
+      "id": "g24",
+      "icon": "📎",
+      "title": "Bài kiểm tra 10 điểm",
+      "message": "Cô đã ôm em khi em lần đầu tiên đạt được điểm 10 đầy nỗ lực.",
+      "x": "20%",
+      "y": "60%"
+    },
+    {
+      "id": "g25",
+      "icon": "🎉",
+      "title": "Niềm vui giản dị",
+      "message": "Thầy luôn âm thầm vui khi chúng em tiến bộ từng ngày.",
+      "x": "84%",
+      "y": "25%"
+    },
+    {
+      "id": "g26",
+      "icon": "🪄",
+      "title": "Phép màu của cô",
+      "message": "Cô khiến những điều bình thường trở nên thật kỳ diệu.",
+      "x": "55%",
+      "y": "22%"
+    },
+    {
+      "id": "g27",
+      "icon": "💟",
+      "title": "Gửi yêu thương",
+      "message": "Lời động viên của thầy là điều giúp em vượt qua khó khăn.",
+      "x": "27%",
+      "y": "10%"
+    },
+    {
+      "id": "g28",
+      "icon": "🔔",
+      "title": "Tiếng trống trường",
+      "message": "Tiếng trống trường thầy đánh ngày khai giảng mãi theo em đến tận hôm nay.",
+      "x": "70%",
+      "y": "85%"
+    },
+    {
+      "id": "g29",
+      "icon": "🧧",
+      "title": "Phong bao ngày Tết",
+      "message": "Cô lì xì cho cả lớp và dặn rằng 'Hãy lớn lên thật đẹp'.",
+      "x": "38%",
+      "y": "88%"
+    },
+    {
+      "id": "g30",
+      "icon": "✨",
+      "title": "Ánh sáng dẫn đường",
+      "message": "Thầy không chỉ dạy chữ mà còn dạy em cách làm người tử tế.",
+      "x": "58%",
+      "y": "8%"
     }
   ]
 }

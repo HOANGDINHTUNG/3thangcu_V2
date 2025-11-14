@@ -10,6 +10,18 @@ interface Props {
 }
 
 const GratitudeTree = ({ notes }: Props) => {
+  const clampPosition = (y: string) => {
+    // chuyển "40%" → 40
+    const value = Number(y.replace("%", ""));
+
+    const min = 20;  // icon cách đỉnh cây 10%
+    const max = 70;  // icon không vượt quá 70% chiều cao
+
+    const clamped = Math.min(max, Math.max(min, value));
+
+    return clamped + "%";
+  };
+
   return (
     <div className="relative flex justify-center py-10">
       {/* Cây */}
@@ -17,25 +29,27 @@ const GratitudeTree = ({ notes }: Props) => {
         src={treeImg}
         alt="Cây tri ân"
         className="
-          w-[320px] md:w-[450px] lg:w-[520px]
+          w-[380px] md:w-[450px] lg:w-[520px]
           select-none pointer-events-none
           tree-float
         "
       />
 
-      {/* Icon trên cành */}
+      {/* Icon trên cây */}
       {notes.map((n) => (
         <button
           key={n.id}
           type="button"
           className="
-            absolute text-xl md:text-2xl cursor-pointer 
-            drop-shadow-[0_0_12px_rgba(0,0,0,0.35)]
-            transition-transform hover:scale-110
+            absolute 
+            text-lg md:text-xl   /* icon nhỏ lại */
+            cursor-pointer 
+            drop-shadow-[0_0_10px_rgba(0,0,0,0.30)]
+            transition-transform hover:scale-125
             animate-pulse
           "
           style={{
-            top: n.y,
+            top: clampPosition(n.y),
             left: n.x,
           }}
           onClick={n.onClick}
