@@ -55,7 +55,7 @@ const HeroSection = () => {
           visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
         }`}
       >
-        <div className="relative w-full max-w-md mx-auto">
+        <div className="relative mx-auto">
           <div className="aspect-square rounded-3xl bg-linear-to-tr from-amber-100 via-sky-100 to-white dark:from-slate-800 dark:via-slate-900 dark:to-slate-900 shadow-lg flex items-center justify-center">
             <div className="grid grid-cols-2 gap-3 p-6">
               <div className="rounded-2xl bg-white/80 dark:bg-slate-900/80 p-3 text-center shadow float-soft">
